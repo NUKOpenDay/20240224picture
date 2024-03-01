@@ -2850,13 +2850,13 @@ input, select, textarea {
 			}
 
 			#header .logo .symbol {
-				margin-right: 0.65em;
+				margin-right: 2em;
 			}
 
 				#header .logo .symbol img {
 					display: block;
-					width: 2em;
-					height: 2em;
+					width: 7em;
+					height: 7em;
 				}
 
 		#header nav {
